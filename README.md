@@ -1,6 +1,6 @@
 # Kaggle House Prices — EDA & Preprocessing
 
-**分工**：我負責資料蒐集/EDA/特徵工程；隊友負責模型與可解釋性。  
+**進度**：目前正在資料蒐集/EDA/特徵工程；將來選出模型與可解釋性。  
 **如何執行**：
 1. 將 `train.csv`、`test.csv` 放在專案根目錄。
 2. 開 `houseprice_eda_preprocess.ipynb` 由上到下執行。
